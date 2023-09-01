@@ -1,0 +1,18 @@
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .back{
+    cursor: pointer;
+  }
+  .next{
+    cursor: pointer;
+  }
+  .back:hover{
+    filter: drop-shadow(.5px 1px 1px black);
+  }
+  .next:hover{
+    filter: drop-shadow(.5px 1px 1px black);
+  }

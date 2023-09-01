@@ -1,0 +1,14 @@
+.footer {
+  background-color:#9517d9;
+  color:#E2CFEA;
+  padding: 2rem;
+ 
+}
+.footer .container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: medium;
+  font-weight: bold;
+}
+
